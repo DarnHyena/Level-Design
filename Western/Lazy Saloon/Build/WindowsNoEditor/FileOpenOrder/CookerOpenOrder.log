@@ -1,543 +1,706 @@
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/P2_Sketch_08_Top_-_Jason_Sausser.uasset" 0
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 2
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 3
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 4
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/P2_Sketch_08_Top_-_Jason_Sausser_Sprite.uasset" 5
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 6
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 7
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 8
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 9
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/FirstPersonOverview.uasset" 10
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 11
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 12
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 13
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_Brick_Clay_Old_D.uasset" 14
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_Brick_Clay_Old_N.uasset" 15
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_MacroVariation.uasset" 16
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_Perlin_Noise_M.uasset" 17
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/M_Brick_Clay_Old.uasset" 18
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 19
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/DoorTrim.uasset" 20
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Base.uasset" 21
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Height.uasset" 22
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Met.uasset" 23
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Normal.uasset" 24
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Rough.uasset" 25
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Wall01.uasset" 26
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/OuterWall_01.uasset" 27
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Mountain_e_Summer.uasset" 28
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Grass_DH.uasset" 29
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Soil_DH.uasset" 30
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/WorldCoords-XY.uasset" 31
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Materials/Textures/T_Box01_D.uasset" 32
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 33
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 34
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 35
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 36
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 37
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 38
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 39
-"../../../Engine/Content/BasicShapes/Cone.uasset" 40
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 41
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 42
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 43
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 44
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 45
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 46
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 47
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 48
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 49
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 50
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 51
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 52
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 53
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 54
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 55
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 56
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 57
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 58
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 59
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 60
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 61
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 62
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 63
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 64
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 65
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 66
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 67
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 68
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 69
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 70
-"../../../Engine/Content/EditorResources/S_Note.uasset" 71
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 72
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 73
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 74
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 75
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 76
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 77
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 78
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 79
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 80
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 81
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 82
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 83
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 84
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 85
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 86
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 87
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 88
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 89
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 90
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 91
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 92
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 93
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 94
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 95
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 96
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 97
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 98
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 99
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 100
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 101
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 102
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 103
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 104
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 105
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 106
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 107
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 108
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 109
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 110
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 111
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 112
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 113
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 114
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 115
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 116
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 117
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 118
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 119
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 120
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 121
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 122
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 123
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 124
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 125
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 126
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 127
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 128
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 129
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 130
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 131
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 132
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 133
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 134
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 135
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 136
-"../../../Engine/Content/EngineResources/Black.uasset" 137
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 138
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 139
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 140
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 141
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 142
-"../../../Engine/Content/EngineSounds/Master.uasset" 143
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 144
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 145
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 146
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 147
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 148
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 149
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 150
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 151
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 152
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 153
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 154
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 155
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 156
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 157
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 158
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 159
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 160
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 161
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 162
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 163
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 164
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 165
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 166
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 167
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 168
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 169
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 170
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 171
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 172
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 173
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 174
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 175
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 176
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 177
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 178
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 179
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 180
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 181
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 182
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 183
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 184
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 185
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 186
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 187
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 188
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 189
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 190
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 191
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 192
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 193
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_Idle.uasset" 194
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 195
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 196
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 197
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_Run.uasset" 198
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 199
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 200
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_Fire.uasset" 201
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 202
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/BaseMaterial.uasset" 203
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 204
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 205
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 206
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 207
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 208
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 209
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 210
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 211
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 212
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 213
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 214
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 215
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 216
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 217
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 218
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 219
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 220
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 221
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 222
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 223
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 224
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 225
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 226
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 227
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 228
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 229
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 230
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 231
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 232
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 233
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 234
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 235
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 236
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 237
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 238
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 239
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 240
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 241
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 242
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 243
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 244
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 245
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 246
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 247
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 248
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 249
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 250
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 251
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 252
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 253
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 254
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 255
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 256
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 257
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 258
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 259
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 260
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 261
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 262
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 263
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 264
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 265
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 266
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 267
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 268
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 269
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 270
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 271
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 272
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 273
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 274
-"../../../Engine/Content/BasicShapes/Plane.uasset" 275
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 276
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 277
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 278
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 279
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 280
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 281
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 282
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 283
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 284
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 285
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 286
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 287
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Blueprint/BP_GoodSky.uasset" 288
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Textures/FirstPersonCrosshair.uasset" 289
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 290
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 291
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Layerinfo/Layer01_LayerInfo.uasset" 292
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Layerinfo/Layer02_LayerInfo.uasset" 293
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Layerinfo/Layer03_LayerInfo.uasset" 294
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/WesternMap_BuiltData.uasset" 295
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_BaseColor.uasset" 296
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Height.uasset" 297
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Metallic.uasset" 298
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Normal.uasset" 299
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Roughness.uasset" 300
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-BarBase.uasset" 301
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_BaseColor.uasset" 302
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Height.uasset" 303
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Metallic.uasset" 304
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Normal.uasset" 305
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Roughness.uasset" 306
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-BarShelf.uasset" 307
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_BaseColor.uasset" 308
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Height.uasset" 309
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Metallic.uasset" 310
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Normal.uasset" 311
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Roughness.uasset" 312
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-BarTop.uasset" 313
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Rug-Yellow.uasset" 314
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Height.uasset" 315
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Metallic.uasset" 316
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Normal.uasset" 317
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Roughness.uasset" 318
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Rug_2.uasset" 319
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/KeepOut.uasset" 320
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/KeepOut-Decal.uasset" 321
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Base.uasset" 322
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Height.uasset" 323
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Met.uasset" 324
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Normal.uasset" 325
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Rough.uasset" 326
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Entry.uasset" 327
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_BaseColor.uasset" 328
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Height.uasset" 329
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Metallic.uasset" 330
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Normal.uasset" 331
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Roughness.uasset" 332
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/S-Trim.uasset" 333
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Dirt.uasset" 334
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Grass.uasset" 335
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Grass_N.uasset" 336
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Pebbles_DH.uasset" 337
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Pebbles_N.uasset" 338
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Soil_N.uasset" 339
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/M_Landscape.uasset" 340
-"../../../Engine/Content/BasicShapes/Cube.uasset" 341
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 342
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Particles/T_Dust_Particle_D.uasset" 343
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Particles/M_Dust_Particle.uasset" 344
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Particles/P_Ambient_Dust.uasset" 345
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_BaseColor.uasset" 346
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Height.uasset" 347
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Metallic.uasset" 348
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Normal.uasset" 349
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Roughness.uasset" 350
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Barrel01.uasset" 351
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Barrel01.uasset" 352
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_BaseColor.uasset" 353
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Height.uasset" 354
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Metallic.uasset" 355
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Normal.uasset" 356
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Roughness.uasset" 357
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Barrel02.uasset" 358
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Barrel02.uasset" 359
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_BaseColor.uasset" 360
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Height.uasset" 361
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Metallic.uasset" 362
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Normal.uasset" 363
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Roughness.uasset" 364
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Bed.uasset" 365
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Bed.uasset" 366
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_BaseColor.uasset" 367
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Height.uasset" 368
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Metallic.uasset" 369
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Normal.uasset" 370
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Roughness.uasset" 371
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Bedside.uasset" 372
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/BedsideTable.uasset" 373
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Books01.uasset" 374
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Books02.uasset" 375
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/BookShelf_Large.uasset" 376
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/BookShelf_Small.uasset" 377
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_BaseColor.uasset" 378
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Height.uasset" 379
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Metallic.uasset" 380
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Normal.uasset" 381
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Roughness.uasset" 382
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Desk.uasset" 383
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Desk.uasset" 384
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Light.uasset" 385
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-BarBase.uasset" 386
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-BarShelf.uasset" 387
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-BarTop.uasset" 388
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_BaseColor.uasset" 389
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Height.uasset" 390
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Metallic.uasset" 391
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Normal.uasset" 392
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Roughness.uasset" 393
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Bench.uasset" 394
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Bench.uasset" 395
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_BaseColor.uasset" 396
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Height.uasset" 397
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Metallic.uasset" 398
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Normal.uasset" 399
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Roughness.uasset" 400
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Chair_L.uasset" 401
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Chair_L.uasset" 402
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S-Alt.uasset" 403
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Height.uasset" 404
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Metallic.uasset" 405
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Normal.uasset" 406
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Roughness.uasset" 407
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Chair_S_2.uasset" 408
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Chair_S.uasset" 409
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_BaseColor.uasset" 410
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Chair_S.uasset" 411
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Chair_Stool.uasset" 412
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Base.uasset" 413
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Height.uasset" 414
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Met.uasset" 415
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Normal.uasset" 416
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Rough.uasset" 417
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Door.uasset" 418
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Door.uasset" 419
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Rails.uasset" 420
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_BaseColor.uasset" 421
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Rug.uasset" 422
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Rug.uasset" 423
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Shelf.uasset" 424
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_BaseColor.uasset" 425
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Height.uasset" 426
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Metallic.uasset" 427
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Normal.uasset" 428
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Roughness.uasset" 429
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Table.uasset" 430
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Table_L.uasset" 431
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Table_S.uasset" 432
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_BaseColor.uasset" 433
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Height.uasset" 434
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Metallic.uasset" 435
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Normal.uasset" 436
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Roughness.uasset" 437
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Sacred_Toilet.uasset" 438
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/toilet.uasset" 439
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/HDRI_Epic_Courtyard_Daylight.uasset" 440
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/S-Trim.uasset" 441
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Entry.uasset" 442
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Base.uasset" 443
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Height.uasset" 444
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Met.uasset" 445
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Normal.uasset" 446
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Rough.uasset" 447
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Floor01.uasset" 448
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Floor_01.uasset" 449
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Floor_02.uasset" 450
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_BaseColor.uasset" 451
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Height.uasset" 452
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Metallic.uasset" 453
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Normal.uasset" 454
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Roughness.uasset" 455
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Saloon-Inner01.uasset" 456
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-InnerWalls_01.uasset" 457
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-OuterWalls_01.uasset" 458
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_BaseColor.uasset" 459
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Height.uasset" 460
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Metallic.uasset" 461
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Normal.uasset" 462
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Roughness.uasset" 463
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Walls02.uasset" 464
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-OuterWalls_02.uasset" 465
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Roof.uasset" 466
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Stairs.uasset" 467
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Base.uasset" 468
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Height.uasset" 469
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Met.uasset" 470
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Normal.uasset" 471
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Rough.uasset" 472
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/WFrame.uasset" 473
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Base.uasset" 474
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Height.uasset" 475
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Met.uasset" 476
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Normal.uasset" 477
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Rough.uasset" 478
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Window.uasset" 479
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Windows_01.uasset" 480
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Windows_02.uasset" 481
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Base.uasset" 482
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Height.uasset" 483
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Met.uasset" 484
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Normal.uasset" 485
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Rough.uasset" 486
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Saloon-Inner02.uasset" 487
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/SFloorWall01.uasset" 488
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_BaseColor.uasset" 489
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Height.uasset" 490
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Metallic.uasset" 491
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Normal.uasset" 492
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Roughness.uasset" 493
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Walls03.uasset" 494
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/SFloorWall02.uasset" 495
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 496
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 497
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 498
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/T_FieldGrass_01_D.uasset" 499
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/T_FieldGrass_02_M.uasset" 500
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/T_Water_N.uasset" 501
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_01.uasset" 502
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_Inst_01.uasset" 503
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_Inst_01_LOD1.uasset" 504
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_Inst_01_LOD2.uasset" 505
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/SM_FieldGrass_01.uasset" 506
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/Mountain_e_Summer.uasset" 507
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/pr_background_mountain_e_N.uasset" 508
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/SM_ground_gravel_b_n.uasset" 509
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/Mobile_mountain_e_M_summer.uasset" 510
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_E1_LOW.uasset" 511
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_E2_LOW.uasset" 512
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_N1_LOW.uasset" 513
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_N2_LOW.uasset" 514
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_S1_LOW.uasset" 515
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_S2_LOW.uasset" 516
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_W1_LOW.uasset" 517
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_W2_LOW.uasset" 518
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/bark_N.uasset" 519
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/bark_s.uasset" 520
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/bark_wh.uasset" 521
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/Tree00.uasset" 522
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/ast4.uasset" 523
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/Tree01.uasset" 524
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Tree.uasset" 525
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/WesternMap.umap" 526
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 527
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 528
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 529
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 530
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 531
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 532
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 533
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 534
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 535
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 536
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/CubeMaterialOverride.uasset" 537
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 538
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 539
-"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Maps/Level_GoodSky_Showcase.umap" 540
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 541
-"../../../Engine/Content/Maps/Entry.umap" 542
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/FlyCam.uasset" 0
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Cinematics/Sequences/Sequence/shots/shot0010/shot0010_001.uasset" 1
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Cinematics/Sequences/Sequence/shots/shot0020/shot0020_001.uasset" 2
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Cinematics/Sequences/Sequence/shots/shot0030/shot0030_001.uasset" 3
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Cinematics/Sequences/Sequence/shots/shot0040/shot0040_001.uasset" 4
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Cinematics/Sequences/Sequence/shots/shot0050/shot0050_001.uasset" 5
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Cinematics/Sequences/Sequence/SequenceMaster.uasset" 6
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/P2_Sketch_08_Top_-_Jason_Sausser.uasset" 7
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 8
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 9
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 10
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 11
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/P2_Sketch_08_Top_-_Jason_Sausser_Sprite.uasset" 12
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 13
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 14
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 15
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 16
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/FirstPersonOverview.uasset" 17
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 18
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 19
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 20
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_Brick_Clay_Old_D.uasset" 21
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_Brick_Clay_Old_N.uasset" 22
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_MacroVariation.uasset" 23
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/T_Perlin_Noise_M.uasset" 24
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Starter/M_Brick_Clay_Old.uasset" 25
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/PM/Wood_PM.uasset" 26
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Divider_Divider_Metallic.uasset" 27
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Rails_Wood_BaseColor.uasset" 28
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Rails_Wood_Height.uasset" 29
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Rails_Wood_Normal.uasset" 30
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Rails_Wood_Roughness.uasset" 31
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Railing.uasset" 32
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Rails.uasset" 33
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Rails.uasset" 34
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S-Alt.uasset" 35
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Height.uasset" 36
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Metallic.uasset" 37
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Normal.uasset" 38
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_Roughness.uasset" 39
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Chair_S_2.uasset" 40
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_BaseColor.uasset" 41
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Height.uasset" 42
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Metallic.uasset" 43
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Normal.uasset" 44
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Rug_Rug_Roughness.uasset" 45
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Rug.uasset" 46
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Light_Light_Roughness.uasset" 47
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 48
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/DoorTrim.uasset" 49
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Tophat_Base.uasset" 50
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Tophat_TopHat_BaseColor.uasset" 51
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Base.uasset" 52
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Height.uasset" 53
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Met.uasset" 54
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Normal.uasset" 55
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Wall02_Rough.uasset" 56
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Wall01.uasset" 57
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/OuterWall_01.uasset" 58
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Rails_Wood_Metallic.uasset" 59
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Roof_Ceiling_Metallic.uasset" 60
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Mountain_e_Summer.uasset" 61
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Grass_DH.uasset" 62
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Soil_DH.uasset" 63
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/WorldCoords-XY.uasset" 64
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 66
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 67
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 68
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 69
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 70
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 71
+"../../../Engine/Content/BasicShapes/Cone.uasset" 72
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 73
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 74
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 75
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 76
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 77
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 78
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 79
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 80
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 81
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 82
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 83
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 84
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 85
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 86
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 87
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 88
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 89
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 90
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 91
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 92
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 93
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 94
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 95
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 96
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 97
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 98
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 99
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 100
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 101
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 102
+"../../../Engine/Content/EditorResources/S_Note.uasset" 103
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 104
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 105
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 106
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 107
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 108
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 109
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 110
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 111
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 112
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 113
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 114
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 115
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 116
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 117
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 118
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 119
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 120
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 121
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 122
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 123
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 124
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 125
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 126
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 127
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 128
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 129
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 130
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 131
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 132
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 133
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 134
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 135
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 136
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 137
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 138
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 139
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 141
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 142
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 143
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 144
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 145
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 146
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 147
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 148
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 149
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 150
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 151
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 152
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 153
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 154
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 155
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 156
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 157
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 158
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 159
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 160
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 161
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 162
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 163
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 164
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 165
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 166
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 167
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 168
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 169
+"../../../Engine/Content/EngineResources/Black.uasset" 170
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 171
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 172
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 173
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 174
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 175
+"../../../Engine/Content/EngineSounds/Master.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 177
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 178
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 179
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 180
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 181
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 182
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 183
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 184
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 185
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 186
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 187
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 188
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 189
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 190
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 191
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 192
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 193
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 194
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 195
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 196
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 197
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 198
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 199
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 200
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 201
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 202
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 203
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 204
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 205
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 206
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 207
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 208
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 209
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 210
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 211
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 212
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 213
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 214
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 215
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 216
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 217
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 219
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 221
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 222
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 223
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 224
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 225
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 226
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_Idle.uasset" 227
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 228
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 229
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 230
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_Run.uasset" 231
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 232
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Footstep_Wood_1.uasset" 233
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Footstep_Wood_3.uasset" 234
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Footstep_Wood_6.uasset" 235
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Footstep_Wood_7.uasset" 236
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Patio_Door_2.uasset" 237
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Saloon_Door_1.uasset" 238
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Saloon_Door_2.uasset" 239
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/Saloon_Door_3.uasset" 240
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 241
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPerson_Fire.uasset" 242
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 243
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/BaseMaterial.uasset" 244
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 245
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 246
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 248
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 249
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 250
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 251
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 252
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 253
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 254
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 255
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 256
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 257
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 258
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 259
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 260
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 261
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 262
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 263
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 264
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 265
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 266
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 267
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 268
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 269
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 270
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 271
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 272
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 273
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 274
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 275
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 276
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 277
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 278
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 279
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 280
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 281
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 282
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 283
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 284
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 285
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 286
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 287
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 288
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 290
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 291
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 292
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 293
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 294
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 295
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 296
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 300
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 301
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 303
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 304
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 306
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 310
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 311
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 312
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 313
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 314
+"../../../Engine/Content/BasicShapes/Plane.uasset" 315
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 316
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 317
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 318
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 319
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 320
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 321
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 322
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 323
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 324
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 325
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 326
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 327
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Blueprint/BP_GoodSky.uasset" 328
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Textures/FirstPersonCrosshair.uasset" 329
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 330
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 331
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Layerinfo/Layer01_LayerInfo.uasset" 332
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Layerinfo/Layer02_LayerInfo.uasset" 333
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Layerinfo/Layer03_LayerInfo.uasset" 334
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/WesternMap_BuiltData.uasset" 335
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_BaseColor.uasset" 336
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Height.uasset" 337
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Metallic.uasset" 338
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Normal.uasset" 339
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarBase_Wood_Roughness.uasset" 340
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-BarBase.uasset" 341
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_BaseColor.uasset" 342
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Height.uasset" 343
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Metallic.uasset" 344
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Normal.uasset" 345
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarShelf_Wood02_Roughness.uasset" 346
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-BarShelf.uasset" 347
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Player/PM/Cloth_PM.uasset" 348
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Rug-Yellow.uasset" 349
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Rug_2.uasset" 350
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/KeepOut.uasset" 351
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/KeepOut-Decal.uasset" 352
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_BaseColor.uasset" 353
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Height.uasset" 354
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Metallic.uasset" 355
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Normal.uasset" 356
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/S-Trim_Trim_Roughness.uasset" 357
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/S-Trim.uasset" 358
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Dirt.uasset" 359
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Grass.uasset" 360
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Grass_N.uasset" 361
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Pebbles_DH.uasset" 362
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Pebbles_N.uasset" 363
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/T_Landscape_Soil_N.uasset" 364
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/M_Landscape.uasset" 365
+"../../../Engine/Content/BasicShapes/Cube.uasset" 366
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 367
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/Outside_Ambient.uasset" 368
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/Outside_Ambient_Cue.uasset" 369
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/SN_03.uasset" 370
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/SN_03_Cue.uasset" 371
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/SN_05.uasset" 372
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/SN_05_Cue.uasset" 373
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/Wind_Whistle_LOOP.uasset" 374
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Environment/Wind_Whistle_LOOP_Cue.uasset" 375
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Music/Rainy_Night_Montague.uasset" 376
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Audio/Music/Rainy_Night_Montague_Cue.uasset" 377
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Particles/T_Dust_Particle_D.uasset" 378
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Particles/M_Dust_Particle.uasset" 379
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/Particles/P_Ambient_Dust.uasset" 380
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_BaseColor.uasset" 381
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Height.uasset" 382
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Metallic.uasset" 383
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Normal.uasset" 384
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel01_Wood02_Roughness.uasset" 385
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Barrel01.uasset" 386
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Barrel01.uasset" 387
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_BaseColor.uasset" 388
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Height.uasset" 389
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Metallic.uasset" 390
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Normal.uasset" 391
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Barrel02_Wood02_Roughness.uasset" 392
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Barrel02.uasset" 393
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Barrel02.uasset" 394
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_BaseColor.uasset" 395
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Height.uasset" 396
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Metallic.uasset" 397
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Normal.uasset" 398
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Bed_Bed_Roughness.uasset" 399
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Bed.uasset" 400
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Bed.uasset" 401
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_BaseColor.uasset" 402
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Height.uasset" 403
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Metallic.uasset" 404
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Normal.uasset" 405
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BedsideTable_Wood01_Roughness.uasset" 406
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Bedside.uasset" 407
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/BedsideTable.uasset" 408
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Book_Book03_Height.uasset" 409
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Book_Book03_Metallic.uasset" 410
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Book_Book03_Normal.uasset" 411
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Book_Book03_Roughness.uasset" 412
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookBase-Red.uasset" 413
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Book01.uasset" 414
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookBase-Green.uasset" 415
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Book02.uasset" 416
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookBase-Yellow.uasset" 417
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Book03.uasset" 418
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Books01.uasset" 419
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Books02.uasset" 420
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Large_Wood01_BaseColor.uasset" 421
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Large_Wood01_Height.uasset" 422
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Large_Wood01_Metallic.uasset" 423
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Large_Wood01_Normal.uasset" 424
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Large_Wood01_Roughness.uasset" 425
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Bookshelf-L.uasset" 426
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/BookShelf_Large.uasset" 427
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Small_Wood02_BaseColor.uasset" 428
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Small_Wood02_Height.uasset" 429
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Small_Wood02_Metallic.uasset" 430
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Small_Wood02_Normal.uasset" 431
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/BookShelf_Small_Wood02_Roughness.uasset" 432
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Bookshelf-S.uasset" 433
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/BookShelf_Small.uasset" 434
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Broom_Broom_BaseColor.uasset" 435
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Broom_Broom_Height.uasset" 436
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Broom_Broom_Metallic.uasset" 437
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Broom_Broom_Normal.uasset" 438
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Broom_Broom_Roughness.uasset" 439
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Broom.uasset" 440
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Broom.uasset" 441
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Candle_Candle_BaseColor.uasset" 442
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Candle_Candle_Height.uasset" 443
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Candle_Candle_Metallic.uasset" 444
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Candle_Candle_Normal.uasset" 445
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Candle_Candle_Roughness.uasset" 446
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Candle.uasset" 447
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Candle.uasset" 448
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_BaseColor.uasset" 449
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Height.uasset" 450
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Metallic.uasset" 451
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Normal.uasset" 452
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Desk_Wood01_Roughness.uasset" 453
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Desk.uasset" 454
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Desk.uasset" 455
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Divider_Divider_BaseColor.uasset" 456
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Divider_Divider_Height.uasset" 457
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Divider_Divider_Normal.uasset" 458
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Divider_Divider_Roughness.uasset" 459
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Divider.uasset" 460
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Divider.uasset" 461
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/YeenBust_D.uasset" 462
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/YeenBust_N.uasset" 463
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/YeenBust_S.uasset" 464
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/YeenBust.uasset" 465
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Hyeenu_Bust.uasset" 466
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Metal_BaseColor.uasset" 467
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Metal_Height.uasset" 468
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Metal_Metallic.uasset" 469
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Metal_Normal.uasset" 470
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Metal_Roughness.uasset" 471
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Base.uasset" 472
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Light_Light_BaseColor.uasset" 473
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Light_Light_Height.uasset" 474
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Light_Light_Metallic.uasset" 475
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Light_Light_Normal.uasset" 476
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light.uasset" 477
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Light_Inst.uasset" 478
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Light.uasset" 479
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Mug_Metal_BaseColor.uasset" 480
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Mug_Metal_Height.uasset" 481
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Mug_Metal_Metallic.uasset" 482
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Mug_Metal_Normal.uasset" 483
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Mug_Metal_Roughness.uasset" 484
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Mug.uasset" 485
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Mug.uasset" 486
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen.uasset" 487
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen_2_0_Base_Fluff_BaseColor.uasset" 488
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen_2_0_Base_Fluff_Height.uasset" 489
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen_2_0_Base_Fluff_Metallic.uasset" 490
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen_2_0_Base_Fluff_Normal.uasset" 491
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen_Mat.uasset" 492
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Plush_Yeen_2_0.uasset" 493
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-BarBase.uasset" 494
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-BarShelf.uasset" 495
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_BaseColor.uasset" 496
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Height.uasset" 497
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Metallic.uasset" 498
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Normal.uasset" 499
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-BarTop_Wood02_Roughness.uasset" 500
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-BarTop.uasset" 501
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-BarTop.uasset" 502
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_BaseColor.uasset" 503
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Height.uasset" 504
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Metallic.uasset" 505
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Normal.uasset" 506
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Bench_Bench_Roughness.uasset" 507
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Bench.uasset" 508
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Bench.uasset" 509
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_BaseColor.uasset" 510
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Height.uasset" 511
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Metallic.uasset" 512
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Normal.uasset" 513
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_L_Sofa_Roughness.uasset" 514
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Chair_L.uasset" 515
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Chair_L.uasset" 516
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Chair_S_SmallSeat_BaseColor.uasset" 517
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Chair_S.uasset" 518
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Chair_S.uasset" 519
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Chair_Stool.uasset" 520
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Base.uasset" 521
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Height.uasset" 522
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Met.uasset" 523
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Normal.uasset" 524
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Door_Rough.uasset" 525
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Door.uasset" 526
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Door.uasset" 527
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Rug.uasset" 528
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Shelf_Wood_BaseColor.uasset" 529
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Shelf_Wood_Height.uasset" 530
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Shelf_Wood_Metallic.uasset" 531
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Shelf_Wood_Normal.uasset" 532
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Shelf_Wood_Roughness.uasset" 533
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Shelf.uasset" 534
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Shelf.uasset" 535
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_BaseColor.uasset" 536
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Height.uasset" 537
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Metallic.uasset" 538
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Normal.uasset" 539
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/Saloon-Table_L_Wood_Roughness.uasset" 540
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Saloon-Table.uasset" 541
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Table_L.uasset" 542
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Saloon-Table_S.uasset" 543
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_BaseColor.uasset" 544
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Height.uasset" 545
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Metallic.uasset" 546
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Normal.uasset" 547
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Textures/toilet_Toilet_Roughness.uasset" 548
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/Materials/Sacred_Toilet.uasset" 549
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Furniture/toilet.uasset" 550
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/HDRI_Epic_Courtyard_Daylight.uasset" 551
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Stetson_Base.uasset" 552
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Stetson_Stetson_Height.uasset" 553
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Stetson_Stetson_Metallic.uasset" 554
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Stetson_Stetson_Normal.uasset" 555
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Stetson_Stetson_Roughness.uasset" 556
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Stetson_Base_Mat.uasset" 557
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Stetson.uasset" 558
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Tophat_TopHat_Height.uasset" 559
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Tophat_TopHat_Metallic.uasset" 560
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Tophat_TopHat_Normal.uasset" 561
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Textures/Tophat_TopHat_Roughness.uasset" 562
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Tophat_Mat.uasset" 563
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Misc/Tophat.uasset" 564
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Mugs01.uasset" 565
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Mugs02.uasset" 566
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Mugs03.uasset" 567
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Pillars_DefaultMaterial_BaseColor.uasset" 568
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Pillars_DefaultMaterial_Height.uasset" 569
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Pillars_DefaultMaterial_Metallic.uasset" 570
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Pillars_DefaultMaterial_Normal.uasset" 571
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Pillars_DefaultMaterial_Roughness.uasset" 572
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Pillars.uasset" 573
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Pillars.uasset" 574
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/S-Trim.uasset" 575
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Base.uasset" 576
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Height.uasset" 577
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Met.uasset" 578
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Normal.uasset" 579
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Entry_Rough.uasset" 580
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Entry.uasset" 581
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Entry.uasset" 582
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Base.uasset" 583
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Height.uasset" 584
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Met.uasset" 585
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Normal.uasset" 586
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Floor01_Rough.uasset" 587
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Floor01.uasset" 588
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Floor_01.uasset" 589
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Ceiling_BaseColor.uasset" 590
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Ceiling_Height.uasset" 591
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Ceiling_Metallic.uasset" 592
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Ceiling_Normal.uasset" 593
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Ceiling_Roughness.uasset" 594
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Ceiling01.uasset" 595
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Floor01_BaseColor.uasset" 596
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Floor01_Height.uasset" 597
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Floor01_Metallic.uasset" 598
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Floor01_Normal.uasset" 599
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Floor_02_Floor01_Roughness.uasset" 600
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Floor02.uasset" 601
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Floor_02.uasset" 602
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_BaseColor.uasset" 603
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Height.uasset" 604
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Metallic.uasset" 605
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Normal.uasset" 606
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-InnerWalls_01_Wall03_Roughness.uasset" 607
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Saloon-Inner01.uasset" 608
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-InnerWalls_01.uasset" 609
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-OuterWalls_01.uasset" 610
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_BaseColor.uasset" 611
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Height.uasset" 612
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Metallic.uasset" 613
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Normal.uasset" 614
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-OuterWalls_02_Wall01_Roughness.uasset" 615
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Walls02.uasset" 616
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-OuterWalls_02.uasset" 617
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Roof_Ceiling_BaseColor.uasset" 618
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Roof_Ceiling_Height.uasset" 619
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Roof_Ceiling_Normal.uasset" 620
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Roof_Ceiling_Roughness.uasset" 621
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Ceiling02.uasset" 622
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Roof.uasset" 623
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Stairs_Stairs_BaseColor.uasset" 624
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Stairs_Stairs_Height.uasset" 625
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Stairs_Stairs_Metallic.uasset" 626
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Stairs_Stairs_Normal.uasset" 627
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Saloon-Stairs_Stairs_Roughness.uasset" 628
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Stairs.uasset" 629
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Stairs.uasset" 630
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Base.uasset" 631
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Height.uasset" 632
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Met.uasset" 633
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Normal.uasset" 634
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/WFrame_Rough.uasset" 635
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/WFrame.uasset" 636
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Base.uasset" 637
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Height.uasset" 638
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Met.uasset" 639
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Normal.uasset" 640
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/Window_Rough.uasset" 641
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Window.uasset" 642
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Windows_01.uasset" 643
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Saloon-Windows_02.uasset" 644
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Base.uasset" 645
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Height.uasset" 646
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Met.uasset" 647
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Normal.uasset" 648
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SWall01_Rough.uasset" 649
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Saloon-Inner02.uasset" 650
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/SFloorWall01.uasset" 651
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_BaseColor.uasset" 652
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Height.uasset" 653
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Metallic.uasset" 654
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Normal.uasset" 655
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Textures/SFloorWall02_Wall01_Roughness.uasset" 656
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/Textures/Walls03.uasset" 657
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Models/Structure/SFloorWall02.uasset" 658
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 659
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 660
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 661
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/T_FieldGrass_01_D.uasset" 662
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/T_FieldGrass_02_M.uasset" 663
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/T_Water_N.uasset" 664
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_01.uasset" 665
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_Inst_01.uasset" 666
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_Inst_01_LOD1.uasset" 667
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/M_FieldGrass_Inst_01_LOD2.uasset" 668
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/SM_FieldGrass_01.uasset" 669
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/Mountain_e_Summer.uasset" 670
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/pr_background_mountain_e_N.uasset" 671
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/SM_ground_gravel_b_n.uasset" 672
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/Mobile_mountain_e_M_summer.uasset" 673
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_E1_LOW.uasset" 674
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_E2_LOW.uasset" 675
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_N1_LOW.uasset" 676
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_N2_LOW.uasset" 677
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_S1_LOW.uasset" 678
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_S2_LOW.uasset" 679
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_W1_LOW.uasset" 680
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Surround/PR_background_E_W2_LOW.uasset" 681
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/bark_N.uasset" 682
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/bark_s.uasset" 683
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/bark_wh.uasset" 684
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/Tree00.uasset" 685
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/ast4.uasset" 686
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Materials/Foilage02/Tree01.uasset" 687
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Terrain/Mesh/Tree.uasset" 688
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/WesternMap.umap" 689
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 690
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 691
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 692
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 693
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 694
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 695
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 696
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 697
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 698
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" 699
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPerson/Meshes/CubeMaterialOverride.uasset" 700
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 701
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 702
+"../../../../../HCC/Assignments/Level Design - Git/Western/Lazy Saloon/Content/Lazy_Saloon/Misc/GoodSky/Maps/Level_GoodSky_Showcase.umap" 703
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 704
+"../../../Engine/Content/Maps/Entry.umap" 705
