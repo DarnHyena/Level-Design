@@ -1,0 +1,905 @@
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/House_Manor_Sprite.uasset" 0
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/House_Manor_Sprite.uasset" 1
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/House_Small_Sprite.uasset" 2
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/House_Small_Sprite.uasset" 3
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/Inn_Sprite.uasset" 4
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Inn_Sprite.uasset" 5
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/IntroCam.uasset" 6
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/Landscape_Sprite.uasset" 7
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape_Sprite.uasset" 8
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/P3_Sketch_05_top_Sprite.uasset" 9
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/Shed_Sprite.uasset" 10
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Shed_Sprite.uasset" 11
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Cliff.uasset" 12
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Cliff_H.uasset" 13
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Cliff_N.uasset" 14
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Cliff_S.uasset" 15
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Dirt.uasset" 16
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Grass.uasset" 17
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOC_Stone_01.uasset" 18
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Mountain_e_Summer.uasset" 19
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/WorldCoords-XY.uasset" 20
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/ast4.uasset" 21
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/bark_N.uasset" 22
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/bark_s.uasset" 23
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/bark_wh.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 27
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 28
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/M_FieldGrass_01.uasset" 29
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/M_FieldGrass_Inst_01.uasset" 30
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/M_FieldGrass_Inst_01_LOD1.uasset" 31
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/M_FieldGrass_Inst_01_LOD2.uasset" 32
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/Tree00.uasset" 33
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/Tree01.uasset" 34
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/T_FieldGrass_01_D.uasset" 35
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/T_FieldGrass_02_M.uasset" 36
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Foilage02/T_Water_N.uasset" 37
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/SM_FieldGrass_01.uasset" 38
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Tree_Base_v2.uasset" 39
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Tree_Tree_MetallicSmoothness.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 41
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/Mobile_mountain_e_M_summer.uasset" 42
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/Mountain_e_Summer.uasset" 43
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_E1_LOW.uasset" 44
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_E2_LOW.uasset" 45
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_N1_LOW.uasset" 46
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_N2_LOW.uasset" 47
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_S1_LOW.uasset" 48
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_S2_LOW.uasset" 49
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_W1_LOW.uasset" 50
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/PR_background_E_W2_LOW.uasset" 51
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/pr_background_mountain_e_N.uasset" 52
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Surround/SM_ground_gravel_b_n.uasset" 53
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/GnomeGnoll.uasset" 54
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/House_Manor.uasset" 55
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/House_Small.uasset" 56
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/Inn.uasset" 57
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/Landscape.uasset" 58
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/Shed.uasset" 59
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 60
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/Data/Struct_Wave.uasset" 61
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/T_WaveMask.uasset" 62
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/M_Wave.uasset" 63
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/MI_Wave.uasset" 64
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Icons/T_WaveSpawner_Icon.uasset" 65
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/BP_WaveSpawner.uasset" 66
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/MPC_Ocean.uasset" 67
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/RT_Waves.uasset" 68
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Icons/T_WaveController_Icon.uasset" 69
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/BP_WaveController.uasset" 70
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Icons/T_OceanTutorial_Icon.uasset" 71
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/Tutorials/Tutorial_OceanTool_DistanceFields_Begin.uasset" 72
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/Tutorials/Tutorial_OceanTool_OceanMaterial.uasset" 73
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/Tutorials/Tutorial_OceanTool_PlacingOcean.uasset" 74
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/Tutorials/Tutorial_OceanTool_WaveController.uasset" 75
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/Tutorials/Tutorial_OceanTool_WaveSpawner.uasset" 76
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SCurve.uasset" 77
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/T_Sky_HDRI_3.uasset" 78
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Sky/M_Sky_Master.uasset" 79
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Sky/MI_Sky.uasset" 80
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 81
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 83
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/MF_OceanDisplacement.uasset" 84
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/MF_ShorelineWetness.uasset" 85
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Landscape/T_Sand_AO.uasset" 86
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Landscape/T_Sand_D.uasset" 87
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Landscape/T_Sand_N.uasset" 88
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Landscape/T_Sand_R.uasset" 89
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/TerrainMaterial/M_Landscape_Master.uasset" 90
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/TerrainMaterial/MI_Landscape_Ocean.uasset" 91
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/TerrainMaterial/Sand_LayerInfo.uasset" 92
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Meshes/S_Boat_Exterior.uasset" 93
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Meshes/S_Boat_Interior.uasset" 94
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Tutorial/WaveSpawnerSize.uasset" 95
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 96
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 97
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 98
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 99
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Meshes/BaseMaterial.uasset" 100
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Meshes/CubeMaterialOverride.uasset" 101
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPersonBP/FirstPersonOverview.uasset" 102
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 103
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 104
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 105
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Light01.uasset" 106
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Light01_Cue.uasset" 107
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Light02.uasset" 108
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Light02_Cue.uasset" 109
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Starter_Music01.uasset" 110
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Starter_Music_Cue.uasset" 111
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Burst_M.uasset" 112
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Burst.uasset" 113
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Explosion_SubUV.uasset" 114
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 115
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/m_flare_01.uasset" 116
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 117
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_radial_ramp.uasset" 118
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Smoke_SubUV.uasset" 119
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 120
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 121
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Explosion.uasset" 122
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 123
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Spark_Core.uasset" 124
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Spark.uasset" 125
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Sparks.uasset" 126
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 127
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 128
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 129
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 130
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 131
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 132
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 133
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 134
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 135
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 136
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 137
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 138
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 139
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Bush_D.uasset" 140
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Bush_N.uasset" 141
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 142
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 143
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Chair_M.uasset" 144
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Chair_N.uasset" 145
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Checker_Noise_M.uasset" 146
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 147
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 148
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 149
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 150
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 151
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 152
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 153
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 154
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Grime_D.uasset" 155
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Panels_D.uasset" 156
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Panels_N.uasset" 157
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Poured_D.uasset" 158
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Poured_N.uasset" 159
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 160
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 161
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 162
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 163
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Detail_Rocky_N.uasset" 164
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Door_M.uasset" 165
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Door_N.uasset" 166
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Frame_M.uasset" 167
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Frame_N.uasset" 168
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Gradinet_01.uasset" 169
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ground_Grass_D.uasset" 170
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ground_Grass_N.uasset" 171
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ground_Gravel_D.uasset" 172
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ground_Gravel_N.uasset" 173
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_ground_Moss_D.uasset" 174
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Ground_Moss_N.uasset" 175
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Lamp_M.uasset" 176
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Lamp_N.uasset" 177
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_MacroVariation.uasset" 178
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 179
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Copper_D.uasset" 180
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Gold_D.uasset" 181
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Gold_N.uasset" 182
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Rust_D.uasset" 183
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Rust_N.uasset" 184
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Steel_D.uasset" 185
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Metal_Steel_N.uasset" 186
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Perlin_Noise_M.uasset" 187
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_RockMesh_M.uasset" 188
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_RockMesh_N.uasset" 189
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Basalt_D.uasset" 190
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Basalt_N.uasset" 191
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 192
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 193
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 194
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Slate_D.uasset" 195
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Slate_N.uasset" 196
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 197
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Shelf_M.uasset" 198
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Shelf_N.uasset" 199
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Single_Tile_N.uasset" 200
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Statue_M.uasset" 201
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Statue_N.uasset" 202
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_TableRound_M.uasset" 203
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_TableRound_N.uasset" 204
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Tech_Dot_M.uasset" 205
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Tech_Dot_N.uasset" 206
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 207
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 208
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Tech_Panel_M.uasset" 209
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Tech_Panel_N.uasset" 210
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Water_M.uasset" 211
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 212
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 213
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 214
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Oak_D.uasset" 215
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Oak_N.uasset" 216
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Pine_D.uasset" 217
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Pine_N.uasset" 218
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Walnut_D.uasset" 219
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Wood_Walnut_N.uasset" 220
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Material.uasset" 221
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/SizeRef.uasset" 222
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Meat_Cooked.uasset" 223
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/MeatMat.uasset" 224
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/MeatMat.uasset" 225
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 226
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Misc/BridgeBase.uasset" 227
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Bridge_Bridge_BaseColor.uasset" 228
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Bridge_Bridge_Height.uasset" 229
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Bridge_Bridge_Metallic.uasset" 230
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Bridge_Bridge_Normal.uasset" 231
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Bridge_Bridge_Roughness.uasset" 232
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Bridge1.uasset" 233
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Bridge.uasset" 234
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Bridge.uasset" 235
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Building_BaseColor.uasset" 236
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Building_Height.uasset" 237
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Building_Normal.uasset" 238
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Building_OcclusionRoughnessMetallic.uasset" 239
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Building_SpecularSmoothness.uasset" 240
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Base.uasset" 241
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Base.uasset" 242
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_Base.uasset" 243
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door_BaseColor.uasset" 244
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door_Height.uasset" 245
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door_Metallic.uasset" 246
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door_Normal.uasset" 247
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door_OcclusionRoughnessMetallic.uasset" 248
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door_Roughness.uasset" 249
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Door.uasset" 250
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Door.uasset" 251
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Doo.uasset" 252
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_Doo.uasset" 253
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_DoorAlt.uasset" 254
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_DoorAlt.uasset" 255
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_Door.uasset" 256
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_DoorFrame.uasset" 257
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_DoorFrame.uasset" 258
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Stone_BaseColor.uasset" 259
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Stone_Height.uasset" 260
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Stone_Normal.uasset" 261
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Stone_OcclusionRoughnessMetallic.uasset" 262
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Stone_SpecularSmoothness.uasset" 263
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Doorway.uasset" 264
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_DoorWay.uasset" 265
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_DoorWay.uasset" 266
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Wood_BaseColor.uasset" 267
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Wood_Height.uasset" 268
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Wood_Normal.uasset" 269
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Wood_OcclusionRoughnessMetallic.uasset" 270
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Wood_SpecularSmoothness.uasset" 271
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Planks.uasset" 272
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Planks.uasset" 273
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_Planks.uasset" 274
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Roof_BaseColor.uasset" 275
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Roof_Normal.uasset" 276
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Roof_OcclusionRoughnessMetallic.uasset" 277
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Roof.uasset" 278
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Roof.uasset" 279
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_Roof.uasset" 280
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window_AlbedoTransparency.uasset" 281
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window_Height.uasset" 282
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window_Normal.uasset" 283
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window_OcclusionRoughnessMetallic.uasset" 284
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window_SpecularSmoothness.uasset" 285
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window.uasset" 286
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Window.uasset" 287
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House_Window.uasset" 288
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Curtains.uasset" 289
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Window_BaseColor.uasset" 290
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Vase_Vase_BaseColor.uasset" 291
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Vase_Vase_Height.uasset" 292
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Vase_Vase_Normal.uasset" 293
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Vase_Vase_Roughness.uasset" 294
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Vase1.uasset" 295
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Misc/ManyVase.uasset" 296
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/ManyVase.uasset" 297
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall02_Wall_BaseColor.uasset" 298
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall02_Wall_Height.uasset" 299
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall02_Wall_Metallic.uasset" 300
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall02_Wall_Normal.uasset" 301
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall02_Wall_Roughness.uasset" 302
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallMat02.uasset" 303
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/WallMat02.uasset" 304
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Chair.uasset" 305
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Table.uasset" 306
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Barrel__Barrel_BaseColor.uasset" 307
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Barrel__Barrel_Height.uasset" 308
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Barrel__Barrel_Metallic.uasset" 309
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Barrel__Barrel_Normal.uasset" 310
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Barrel__Barrel_Roughness.uasset" 311
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Barrel.uasset" 312
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/_Barrel.uasset" 313
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/BlackMet.uasset" 314
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Roof_Roof_Metallic.uasset" 315
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Dust_Particle_D.uasset" 316
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 317
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Ambient_Dust.uasset" 318
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Particles/P_Ambient_Dust.uasset" 319
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Fire_SubUV.uasset" 320
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Fire_Tiled_D.uasset" 321
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 322
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Textures/T_Water_N.uasset" 323
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 324
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Fire.uasset" 325
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Particles/P_Fire.uasset" 326
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Smoke.uasset" 327
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Particles/P_Smoke.uasset" 328
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Water/T_Waterfall_Foam.uasset" 329
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_Waterfall_Foam.uasset" 330
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Waterfall_Foam.uasset" 331
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Particles/P_Waterfall_Foam.uasset" 332
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/T_FrameClamp.uasset" 333
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/T_Noises.uasset" 334
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/T_WaterSplash2.uasset" 335
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/T_WaterSplash2_N.uasset" 336
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/Materials/M_WaterSplash.uasset" 337
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Water_Splashes.uasset" 338
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Particles/P_Water_Splashes.uasset" 339
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 340
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 341
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 342
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 343
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 344
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 345
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 346
+"../../../Engine/Content/BasicShapes/Cone.uasset" 347
+"../../../Engine/Content/BasicShapes/Cube.uasset" 348
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 349
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 350
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 351
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 352
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 353
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 354
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 355
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 356
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 357
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 358
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 359
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 360
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 361
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 362
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 363
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 364
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 365
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 366
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 367
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 368
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 369
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 370
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 371
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 372
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 373
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 374
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 375
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 376
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 377
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 378
+"../../../Engine/Content/EditorResources/S_Note.uasset" 379
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 380
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 381
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 382
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 383
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 384
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 385
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 386
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 387
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 388
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 389
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 390
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 391
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 392
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 393
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 394
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 395
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 396
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 397
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 398
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 399
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 400
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 401
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 402
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 403
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 404
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 405
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 406
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 407
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 408
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 409
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 410
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 411
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 412
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 413
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 414
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 415
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 417
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 418
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 419
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 420
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 421
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 422
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 423
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 424
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 425
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 426
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 427
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 428
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 429
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 430
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 431
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 432
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 433
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 434
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 435
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 436
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 437
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 438
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 439
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 440
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 441
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 442
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 443
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 444
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 445
+"../../../Engine/Content/EngineResources/Black.uasset" 446
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 447
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 448
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 449
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 450
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 451
+"../../../Engine/Content/EngineSounds/Master.uasset" 452
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 453
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 454
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 455
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 456
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 457
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 458
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 459
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 460
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 461
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 462
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 463
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 464
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 465
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 466
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 467
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 468
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 469
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 470
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 471
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 472
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 473
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 474
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 475
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 476
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 477
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 478
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 479
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 480
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 481
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 482
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 483
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 484
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 485
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 486
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 487
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 488
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 489
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 490
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 491
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 492
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 493
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 494
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 495
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 496
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 497
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 498
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 499
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 500
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 501
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 502
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 503
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 504
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 505
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_Idle.uasset" 506
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 507
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 508
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 509
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_Run.uasset" 510
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 511
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPerson_Fire.uasset" 512
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 513
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 514
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 515
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 516
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 517
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 518
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 519
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 520
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 521
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 522
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 523
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 524
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 525
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 526
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 527
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 528
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 529
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 530
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 531
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 532
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 533
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 534
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 535
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 536
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 537
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 538
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 539
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 540
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 541
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 542
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 543
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 544
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 545
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 546
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 547
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 548
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 549
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 550
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 551
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 552
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 553
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 554
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 555
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 556
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 557
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 559
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 560
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 561
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 562
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 563
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Clouds_Setting.uasset" 564
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Global_Setting.uasset" 565
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 566
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 567
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 568
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 569
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 570
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Moon_Setting.uasset" 571
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 572
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 574
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 576
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 577
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 578
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 579
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 580
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 581
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 582
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 583
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Materials/M_GoodSky_Sun_Stars_Moon.uasset" 584
+"../../../Engine/Content/BasicShapes/Plane.uasset" 585
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 586
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 587
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 588
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 589
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 590
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 591
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 592
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 593
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 594
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 595
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 596
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 597
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Blueprint/BP_GoodSky.uasset" 598
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Smoke01.uasset" 599
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Smoke01_Cue.uasset" 600
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 601
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Steam01.uasset" 602
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Steam01_Cue.uasset" 603
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Particles/P_Steam_Lit.uasset" 604
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 605
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 606
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/T_Caustics.uasset" 607
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/M_CausticsDecal.uasset" 608
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/MI_CausticsDecal.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/LowResBlurredNoise.uasset" 610
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/T_SoftWater_N.uasset" 611
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/M_UnderwaterPostEffect.uasset" 612
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/MI_UnderwaterPostEffect.uasset" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SampleSceneDepth.uasset" 614
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 615
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 616
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 617
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 618
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/MF_Motion4WayChaos.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_d.uasset" 620
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/MF_MotionTexture.uasset" 621
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_n.uasset" 622
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Functions/MF_MotionTexture_Normal.uasset" 623
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Foam_D_2.uasset" 624
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Foam_D_3.uasset" 625
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Foam_N_2.uasset" 626
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Foam_N_3.uasset" 627
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Water_H_2.uasset" 628
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Water_H_3.uasset" 629
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Water_N_2.uasset" 630
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/Water/T_Water_N_3.uasset" 631
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Ocean/M_Ocean_Master.uasset" 632
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Ocean/MI_Ocean.uasset" 633
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Ocean/M_Ocean_Master_Cheap.uasset" 634
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Ocean/MI_Ocean_Cheap.uasset" 635
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Meshes/S_OceanWater.uasset" 636
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Textures/T_Bubble.uasset" 637
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/M_BubbleEffect.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 639
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/M_MoteEffect.uasset" 640
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_DustPanner_01.uasset" 641
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01.uasset" 642
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_02.uasset" 643
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/M_LightshaftEffect.uasset" 644
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Materials/Effects/MI_LightshaftEffect.uasset" 645
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01.uasset" 646
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_01.uasset" 647
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Particles/PS_UnderwaterLightShafts.uasset" 648
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Particles/PS_UnderwaterSplash.uasset" 649
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/BeachShader/Blueprints/BP_OceanWater.uasset" 650
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPerson/Textures/FirstPersonCrosshair.uasset" 651
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 652
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 653
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Layerinfo/Layer01_LayerInfo.uasset" 654
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Layerinfo/Layer02_LayerInfo.uasset" 655
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Layerinfo/Layer03_LayerInfo.uasset" 656
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Layerinfo/Layer04_LayerInfo.uasset" 657
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Valley_BuiltData.uasset" 658
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Cliffalt_N.uasset" 659
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOC_Dirt_01.uasset" 660
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOC_Dirt_02.uasset" 661
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOC_Grass_02.uasset" 662
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOC_Stone_02.uasset" 663
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOCDirt_N.uasset" 664
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/LOCGrass_N.uasset" 665
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/M_Landscape.uasset" 666
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 667
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/T_Stone.uasset" 668
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/T_Stone_N.uasset" 669
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/M_River_Rock.uasset" 670
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/SM_River_Rock.uasset" 671
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Water/T_Noise_Stormy.uasset" 672
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Water/T_Waterfall_Foam_Directional.uasset" 673
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Materials/Water/M_Waterfall.uasset" 674
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/SM_Waterfall_Base.uasset" 675
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Greentop.uasset" 676
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Leaves_N.uasset" 677
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Leaves_S.uasset" 678
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Leaves_M.uasset" 679
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Tree_Tree_AlbedoTransparency.uasset" 680
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Tree_Tree_Normal.uasset" 681
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Materials/Tree_M.uasset" 682
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Landscape/Mesh/Tree.uasset" 683
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 684
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Layout/GnomeGnoll_Sprite.uasset" 685
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/Bonapart.uasset" 686
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/Bonapart_Cue.uasset" 687
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Fire01.uasset" 688
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Fire01_Cue.uasset" 689
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Fire_Sparks01.uasset" 690
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 691
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Starter_Birds01.uasset" 692
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Starter_Wind05.uasset" 693
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Starter_Wind06.uasset" 694
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/Audio/Starter_Background_Cue.uasset" 695
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 696
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Barrel.uasset" 697
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bed_Bed_BaseColor.uasset" 698
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bed_Bed_Height.uasset" 699
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bed_Bed_Normal.uasset" 700
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bed_Bed_Roughness.uasset" 701
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bed.uasset" 702
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Bed.uasset" 703
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bottle_base.uasset" 704
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/BottleMt.uasset" 705
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Bottle.uasset" 706
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bush_Bush_BaseColor.uasset" 707
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bush_Bush_Height.uasset" 708
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bush_Bush_Normal.uasset" 709
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bush_Bush_Roughness.uasset" 710
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Bush1.uasset" 711
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Bush.uasset" 712
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Cabinet_Bar_BaseColor.uasset" 713
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Cabinet_Bar_Height.uasset" 714
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Cabinet_Bar_Normal.uasset" 715
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Cabinet_Bar_Roughness.uasset" 716
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Cabinet.uasset" 717
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Cabinet.uasset" 718
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Chair_Chair_BaseColor.uasset" 719
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Chair_Chair_Height.uasset" 720
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Chair_Chair_Normal.uasset" 721
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Chair_Chair_Roughness.uasset" 722
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/ChairMat.uasset" 723
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Chair.uasset" 724
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Crate_Crate_BaseColor.uasset" 725
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Crate_Crate_Height.uasset" 726
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Crate_Crate_Normal.uasset" 727
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Crate_Crate_Roughness.uasset" 728
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Crate_Mat.uasset" 729
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Crate.uasset" 730
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Fence_Fence_BaseColor.uasset" 731
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Fence_Fence_Height.uasset" 732
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Fence_Fence_Normal.uasset" 733
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Fence_Fence_Roughness.uasset" 734
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Fence1.uasset" 735
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Fence.uasset" 736
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Firewood_Firewood_BaseColor.uasset" 737
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Firewood_Firewood_Emissive.uasset" 738
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Firewood_Firewood_Height.uasset" 739
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Firewood_Firewood_Metallic.uasset" 740
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Firewood_Firewood_Normal.uasset" 741
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Firewood_Firewood_Roughness.uasset" 742
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/FirewoodMat.uasset" 743
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Firewood.uasset" 744
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Hedge_DefaultMaterial_BaseColor.uasset" 745
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Hedge_DefaultMaterial_Height.uasset" 746
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Hedge_DefaultMaterial_Normal.uasset" 747
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Hedge_DefaultMaterial_Roughness.uasset" 748
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Hedge1.uasset" 749
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Hedge.uasset" 750
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/curtain_Curtains_BaseColor.uasset" 751
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/curtain_Curtains_Height.uasset" 752
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/curtain_Curtains_Metallic.uasset" 753
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/curtain_Curtains_Normal.uasset" 754
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/curtain_Curtains_Roughness.uasset" 755
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Curtains.uasset" 756
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/House_Curtains.uasset" 757
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Meat.uasset" 758
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Pumpkin_Plain.uasset" 759
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Pumpkin1.uasset" 760
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Pumpkin.uasset" 761
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Rug_Rug_BaseColor.uasset" 762
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Rug_Rug_Height.uasset" 763
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Rug_Rug_Normal.uasset" 764
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Rug_Rug_Roughness.uasset" 765
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Rug.uasset" 766
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Rug.uasset" 767
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Shelf_Shelf_BaseColor.uasset" 768
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Shelf_Shelf_Height.uasset" 769
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Shelf_Shelf_Normal.uasset" 770
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Shelf_Shelf_Roughness.uasset" 771
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Shelf_Mat.uasset" 772
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Shelf.uasset" 773
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Cup.uasset" 774
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/CupMat.uasset" 775
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Small_Cup.uasset" 776
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Stepstone_Stone_BaseColor.uasset" 777
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Stepstone_Stone_Height.uasset" 778
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Stepstone_Stone_Normal.uasset" 779
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Stepstone_Stone_Roughness.uasset" 780
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Stones.uasset" 781
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Stepstone.uasset" 782
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Table_Table_BaseColor.uasset" 783
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Table_Table_Height.uasset" 784
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Table_Table_Normal.uasset" 785
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Table_Table_Roughness.uasset" 786
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/TableMat.uasset" 787
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Table.uasset" 788
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Vase.uasset" 789
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Base03.uasset" 790
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Chimney_Chimney_BaseColor.uasset" 791
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Chimney_Chimney_Height.uasset" 792
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Chimney_Chimney_Metallic.uasset" 793
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Chimney_Chimney_Normal.uasset" 794
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Chimney_Chimney_Roughness.uasset" 795
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Textures/House_Chimney_Chimney_BaseColor_Mat.uasset" 796
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_Chimney.uasset" 797
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_ChimneyAlt.uasset" 798
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/House01/House_ChimneyBack.uasset" 799
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Building_BaseColor.uasset" 800
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Building_Height.uasset" 801
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Building_Metallic.uasset" 802
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Building_Normal.uasset" 803
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Building_Roughness.uasset" 804
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Building.uasset" 805
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/ManorBase01.uasset" 806
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Wood_BaseColor.uasset" 807
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Wood_Height.uasset" 808
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Wood_Metallic.uasset" 809
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Wood_Normal.uasset" 810
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Wood_Roughness.uasset" 811
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_Wood.uasset" 812
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/ManorBase02.uasset" 813
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/ManorMisc.uasset" 814
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorShed_BaseColor.uasset" 815
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorShed_Height.uasset" 816
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorShed_Metallic.uasset" 817
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorShed_Normal.uasset" 818
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorShed_Roughness.uasset" 819
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/ManorShed1.uasset" 820
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/ManorShed.uasset" 821
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorTop_BaseColor.uasset" 822
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorTop_Emissive.uasset" 823
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorTop_Height.uasset" 824
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorTop_Metallic.uasset" 825
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorTop_Normal.uasset" 826
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/Manor_ManorTop_Roughness.uasset" 827
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/Materials/ManorTop1.uasset" 828
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Manor/ManorTop.uasset" 829
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Cave_Cave_BaseColor.uasset" 830
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Cave_Cave_Height.uasset" 831
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Cave_Cave_Metallic.uasset" 832
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Cave_Cave_Normal.uasset" 833
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Cave_Cave_Roughness.uasset" 834
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Cave1.uasset" 835
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Cave.uasset" 836
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall_Wall_BaseColor.uasset" 837
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall_Wall_Height.uasset" 838
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall_Wall_Metallic.uasset" 839
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall_Wall_Normal.uasset" 840
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/Wall_Wall_Roughness.uasset" 841
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallMat01.uasset" 842
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Wall.uasset" 843
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Wall02.uasset" 844
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallGate_Wall_BaseColor.uasset" 845
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallGate_Wall_Height.uasset" 846
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallGate_Wall_Normal.uasset" 847
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallGate_Wall_Roughness.uasset" 848
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/Materials/WallGateMat.uasset" 849
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Misc/WallGate.uasset" 850
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Shed_Shed_BaseColor.uasset" 851
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Shed_Shed_Height.uasset" 852
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Shed_Shed_Metallic.uasset" 853
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Shed_Shed_Normal.uasset" 854
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Shed_Shed_Roughness.uasset" 855
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Materials/Shed1.uasset" 856
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Shed.uasset" 857
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/ToyMaker_AY.uasset" 858
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/BodyMat.uasset" 859
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/BartenderSpec.uasset" 860
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/ToyMaker_Outfit.uasset" 861
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/OutfitMat.uasset" 862
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Bartender.uasset" 863
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Base_Building_BaseColor.uasset" 864
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Base_Building_Height.uasset" 865
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Base_Building_Normal.uasset" 866
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Base_Building_Roughness.uasset" 867
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Base.uasset" 868
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/T_Base.uasset" 869
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/T_Decor01.uasset" 870
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Divider_Divider_BaseColor.uasset" 871
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Divider_Divider_Height.uasset" 872
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Divider_Divider_Normal.uasset" 873
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Divider_Divider_Roughness.uasset" 874
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Decor/Materials/Divider.uasset" 875
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/Bar_Bar_BaseColor.uasset" 876
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/Bar_Bar_Height.uasset" 877
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/Bar_Bar_Normal.uasset" 878
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/Bar_Bar_Roughness.uasset" 879
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/Bar.uasset" 880
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/T_Decor02.uasset" 881
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Floor_Floor_BaseColor.uasset" 882
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Floor_Floor_Height.uasset" 883
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Floor_Floor_Normal.uasset" 884
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Floor_Floor_Roughness.uasset" 885
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Floor.uasset" 886
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/T_Floor.uasset" 887
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Roof_Roof_BaseColor.uasset" 888
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Roof_Roof_Height.uasset" 889
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Roof_Roof_Normal.uasset" 890
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Roof_Roof_Roughness.uasset" 891
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Roof.uasset" 892
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/T_Roof.uasset" 893
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Support_Pillars_BaseColor.uasset" 894
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Support_Pillars_Height.uasset" 895
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Support_Pillars_Normal.uasset" 896
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Support_Pillars_Roughness.uasset" 897
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/Tavern_Mat/T_Support.uasset" 898
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Models/Structures/Tavern/T_Support.uasset" 899
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Valley.umap" 900
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 901
+"../../../../../HCC/Assignments/Level Design - Git/Retro/Valley_Pass/Content/ValleyPass/Misc/GoodSky/Maps/Level_GoodSky_Showcase.umap" 902
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 903
+"../../../Engine/Content/Maps/Entry.umap" 904
